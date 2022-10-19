@@ -1,1 +1,1 @@
-# ecommerce-sanity.io-stripe
+# E-Commerce website where you can order different products and pay with a test credit card offered by Stripe. The customer and the merchant will get an e-mail of the order confirmation with all the details included.
